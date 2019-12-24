@@ -18,8 +18,8 @@ set usrc=9
 set dec=0
 set capp=None
 set heapy=5000
-set decojar=apktool_2.2.4.jar
-set recojar=apktool_2.2.4.jar
+set decojar=apktool_2.4.1.jar
+set recojar=apktool_2.4.1.jar
 java -version 
 if errorlevel 1 goto errjava
 set /A count=0
@@ -36,11 +36,11 @@ cls
 echo  _______________________________________________________________________________
 echo  ^| Compression-Level: %usrc% ^|   Heap Size: %heapy%mb ^|   Current-App:%capp% ^|
 echo  _______________________________________________________________________________
-echo  			 Mark's Apk Editor V 2.2.4
+echo  			 Mark's Apk Editor V 2.4.1
 echo  _______________________________________________________________________________
 echo  			         Options
 echo                         #BlackScreenOS is Coming
-echo							
+echo			            #VOLTEPlzDevSirETA
 echo  _______________________________________________________________________________
 echo  1   Decompile apk
 echo  2   Compile apk
