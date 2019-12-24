@@ -12,9 +12,9 @@ it on that file.  A small cmd window should open up and inform you the framework
 
 or it force closes on you immediately that is because you did not copy them to your desktop first.
 
-Once you run the command to re-compile your apk (2) you will not need to 7zip, copy anything over to original apk or delete anything.  
+Once you run the command to re-compile your apk (2) you will not need to 7zip, copy anything over to original apk or anything.  just follow the prompts and it will do it's thing for you and will build and be ready to flash.  
 
-It will build and be ready to flash.  If you need to sign your apk all you do is select option 3 once it has built.  
+If you need to sign your apk all you do is select option 3 once it has built.  
 
 You do not need to place the "unsigned.apk" to the "place-apk-here-for-signing" folder.   That folder is for signing 
 
